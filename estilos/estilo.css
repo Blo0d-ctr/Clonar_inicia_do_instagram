@@ -5,4 +5,6 @@
 .fundo{
     display: flex;
     flex-direction: column;
+    width: 900px;
+    height: 600px;
 }
