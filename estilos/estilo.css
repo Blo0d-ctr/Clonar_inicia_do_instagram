@@ -4,7 +4,7 @@
 }
 .fundo{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     width: 900px;
     height: 600px;
 }
