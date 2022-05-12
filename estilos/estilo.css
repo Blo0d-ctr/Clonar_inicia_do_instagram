@@ -20,4 +20,15 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: start;
+    width: 60%;
+    height: 100vh;
+}
+.celular{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.celular img{
+    height: 50rem;
 }
