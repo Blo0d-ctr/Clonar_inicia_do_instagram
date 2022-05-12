@@ -32,3 +32,9 @@ body{
 .celular img{
     height: 50rem;
 }
+.logim{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
