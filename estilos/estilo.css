@@ -41,7 +41,10 @@ body{
     height: 100vh;
     padding: 1.3rem;
 }
-.logim .foto img{
+.foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 50%;
     overflow: hidden;
 }
