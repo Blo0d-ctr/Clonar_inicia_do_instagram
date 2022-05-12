@@ -12,3 +12,7 @@
     width: 900px;
     height: 600px;
 }
+.entrar{
+    display: flex;
+    flex-direction: column;
+}
