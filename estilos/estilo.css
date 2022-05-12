@@ -41,6 +41,11 @@ body{
     height: 100vh;
     padding: 1.3rem;
 }
-.logim .foto{
+.logim .foto img{
     border-radius: 50%;
+}
+
+.store img{
+    width: 100px;
+    height: 30px;
 }
