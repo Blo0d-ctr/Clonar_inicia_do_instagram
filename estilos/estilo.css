@@ -43,6 +43,7 @@ body{
 }
 .logim .foto img{
     border-radius: 50%;
+    overflow: hidden;
 }
 
 .store img{
