@@ -48,6 +48,10 @@ body{
     border-radius: 50%;
     overflow: hidden;
 }
+.btn_entrar{
+    background-color: green;
+    color: white;
+}
 .botoes{
     display: flex;
     flex-direction: row;
