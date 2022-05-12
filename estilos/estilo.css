@@ -48,7 +48,10 @@ body{
     border-radius: 50%;
     overflow: hidden;
 }
-
+.botoes{
+    display: flex;
+    flex-direction: row;
+}
 .store img{
     width: 100px;
     height: 30px;
