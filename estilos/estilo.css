@@ -51,12 +51,14 @@ body{
 .btn_entrar{
     background-color: green;
     color: white;
+
 }
 .botoes{
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    padding: 5px;
 }
 .store img{
     width: 100px;
