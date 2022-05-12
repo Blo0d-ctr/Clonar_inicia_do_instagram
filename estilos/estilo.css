@@ -38,3 +38,6 @@ body{
     justify-content: space-around;
     flex-direction: column;
 }
+.foto{
+    border-radius: 50%;
+}
