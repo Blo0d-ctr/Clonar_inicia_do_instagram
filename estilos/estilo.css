@@ -50,8 +50,8 @@ body{
     margin: 0px;
 }
 .btn_entrar{
-    width: 100px;
-    height: 25px;
+    width: 200px;
+    height: 50px;
     background-color: green;
     border-radius: 10%;
     padding: 5px;
@@ -69,8 +69,8 @@ body{
     text-align: center;
 }
 .store img{
-    width: 200px;
-    height: 50px;
+    width: 100px;
+    height: 30px;
 }
 .google img{
     width: 100px;
