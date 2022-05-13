@@ -50,6 +50,8 @@ body{
     margin: 0px;
 }
 .btn_entrar{
+    width: 50px;
+    height: 25px;
     background-color: green;
     border-radius: 10%;
     padding: 5px;
@@ -62,6 +64,9 @@ body{
     justify-content: center;
     align-items: center;
     padding: 10px;
+}
+.texto p{
+    text-align: center;
 }
 .store img{
     width: 100px;
