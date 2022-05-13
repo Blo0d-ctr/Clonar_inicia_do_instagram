@@ -50,10 +50,10 @@ body{
     margin: 0px;
 }
 .btn_entrar a{
-    width: 200px;
+    width: 100px;
     height: 50px;
     background-color: green;
-    border-radius: 10%;
+    border-radius: 5%;
     padding: 5px;
     color: white;
 
