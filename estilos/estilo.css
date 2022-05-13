@@ -49,7 +49,7 @@ body{
     overflow: hidden;
     margin: 0px;
 }
-.btn_entrar{
+.btn_entrar a{
     width: 200px;
     height: 50px;
     background-color: green;
