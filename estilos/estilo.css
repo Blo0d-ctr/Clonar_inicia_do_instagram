@@ -8,7 +8,7 @@
 }
 
 body{
-    width: 100%;
+    width: 80%;
     min-width: 100vh;
     background-color: blanchedalmond;
     margin: 0;
@@ -19,8 +19,8 @@ body{
 .principal{
     display: flex;
     flex-direction: row;
-    justify-content: start;
-    width: 70%;
+    justify-content: center;
+    width: 85%;
     height: 100vh;
 }
 .celular{
@@ -35,28 +35,31 @@ body{
 .logim{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-direction: column;
-    width: 100%;
+    width: 90%;
     height: 100vh;
-    padding: 0.5rem;
 }
 .foto {
     display: flex;
     justify-content: center;
-    align-items: center;
     border-radius: 50%;
     overflow: hidden;
-    margin: 0px;
+}
+.btn_entrar{
+    display: flex;
+    align-items: center;
+}
+.btn_entrar h2{
+    height: 20px;
+    width: 200px;
+    border-radius: 5%;
+    text-align: center;
+    background-color: rgb(2, 31, 2);
 }
 .btn_entrar a{
-    height: 50px;
-    background-color: rgb(2, 31, 2);
-    text-align: center;
-    border-radius: 5%;
-    padding: 5px;
+    justify-content: center;
     color: white;
-
 }
 .botoes{
     display: flex;
